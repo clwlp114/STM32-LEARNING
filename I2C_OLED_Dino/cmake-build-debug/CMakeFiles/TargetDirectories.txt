@@ -1,0 +1,3 @@
+D:/keysking/Stm32_C/I2C_OLED_Dino/cmake-build-debug/CMakeFiles/I2C_OLED_Dino.elf.dir
+D:/keysking/Stm32_C/I2C_OLED_Dino/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/keysking/Stm32_C/I2C_OLED_Dino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
